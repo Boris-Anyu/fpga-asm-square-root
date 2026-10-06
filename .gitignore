@@ -1,0 +1,20 @@
+# Vivado generated files
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.gen/
+*.sim/
+utils_1/
+
+# Vivado logs and temporary files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+
+# Other generated files
+*.tmp
